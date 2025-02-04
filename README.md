@@ -6,12 +6,12 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">💻 Sobre mim</h2>
 
 ###
 
 <p align="left">📍 Explorando o universo do desenvolvimento Full Stack e constantemente aprendendo novas tecnologias para criar soluções inovadoras e impactantes.<br>
-💻 Sobre mim:
+ Sobre mim:
 
 Sou apaixonado por tecnologia e o poder que ela tem de resolver problemas reais. Meu objetivo é me tornar um desenvolvedor completo, unindo habilidades de front-end e back-end para entregar aplicações confiáveis e eficientes.
 Atualmente, estou me aprofundando em JavaScript, React, Node.js, e SQL, mas estou sempre aberto a explorar novas ferramentas e frameworks.
